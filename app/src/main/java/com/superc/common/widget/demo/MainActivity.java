@@ -1,4 +1,4 @@
-package com.superc.common.widget;
+package com.superc.common.widget.demo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
