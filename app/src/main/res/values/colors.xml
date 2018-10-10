@@ -3,4 +3,19 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <color name="theme_500">#607D8B</color>
+    <color name="theme_100">#CFD8DC</color>
+    <color name="theme_700">#455A64</color>
+
+    <color name="accent_A100">#FF8A80</color>
+    <color name="accent_A200">#FF5252</color>
+    <color name="accent_A400">#FF1744</color>
+
+
+    <color name="preset_button_background">@android:color/transparent</color>
+    <color name="preset_button_background_selected">#66000000</color>
+
+
 </resources>
